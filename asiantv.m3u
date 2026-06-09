@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://en.wikipedia.org/wiki/HBO_Signature_(Asian_TV_channel)#/media/File:HBO_Signature_Asia.png" group-title="English Movies" ,HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English Movies" ,HBO Signature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
