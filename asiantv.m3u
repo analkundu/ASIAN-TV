@@ -102,7 +102,7 @@ https://cloudplay-sonyliv.pages.dev/pixhd.php
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="English Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="196000" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="English Movies",Uniques HD
+#EXTINF:-1 tvg-id="196000" tvg-name="Uniques HD" tvg-logo="https://get.perfecttv.net/logo/uniques.png" group-title="English Movies",Uniques HD
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 
 #EXTINF:-1 tvg-id="198000" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="English Movies",Superrix HD
