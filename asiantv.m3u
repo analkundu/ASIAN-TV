@@ -99,7 +99,7 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="English Movies",Sony PIX HD
 https://cloudplay-sonyliv.pages.dev/pixhd.php
 
-#EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="English Movies",Cineedge HD
+#EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://get.perfecttv.net/logo/cineedge.png" group-title="English Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
 #EXTINF:-1 tvg-id="196000" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="English Movies",Uniques HD
