@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-id="FIFA_1" tvg-name="FIFA 1" tvg-logo="https://raw.githubusercontent.com/analkundu/ASIAN-TV/refs/heads/main/logo/fifa_unifi.png" group-title="Sports",FIFA 1 (Unifi)
+#EXTINF:-1 tvg-id="FIFA_1" tvg-name="FIFA 1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.png" group-title="Sports",FIFA 1 (Unifi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd
