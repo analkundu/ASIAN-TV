@@ -20,19 +20,8 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6f2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa3)/master.mpd
 
-#EXTINF:-1 tvg-id="FOX_SPORTS_1" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/250px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FOX SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
 #EXTINF:-1 tvg-id="HimalayaSports.np@HD" tvg-logo="https://i.ibb.co/MD6ycv7h/Himalayan-Sports-HD.jpg" group-title="Sports",Himalayan Sports
 http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
-
-#EXTINF:-1 tvg-name="Football World Cup 2026 (HIMALAYAN SPORTS)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup 2026 (HIMALAYAN SPORTS)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306
-https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="FOX" group-title="FIFA World Cup 2026",Fox Sports (Live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
