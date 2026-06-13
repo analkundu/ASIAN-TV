@@ -8,7 +8,7 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 tvg-id="FIFA_1" tvg-name="FIFA 1" tvg-logo="https://raw.githubusercontent.com/analkundu/ASIAN-TV/refs/heads/main/logo/fifa1.png" group-title="Sports",FIFA 1 (Unifi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa1)/master.mpd
+https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
 #EXTINF:-1 tvg-id="FIFA_2" tvg-name="FIFA 2" tvg-logo="https://raw.githubusercontent.com/analkundu/ASIAN-TV/refs/heads/main/logo/fifa2.png" group-title="Sports",FIFA 2 (Unifi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
