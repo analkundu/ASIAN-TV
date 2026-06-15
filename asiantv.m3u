@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd
 
-#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="Astro GO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="English Movies",HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
