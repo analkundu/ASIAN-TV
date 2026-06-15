@@ -95,10 +95,6 @@ https://cloudplay-sonyliv.pages.dev/pixhd.php
 
 #====entertainment=====
 
-#EXTM3U
-
-#====entertainment=====
-
 #EXTINF:-1 group-title="Entertainment",AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -142,17 +138,15 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd34c:183b3eafa4c82e68f74c4244d54906b0
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8de11e005db5bd0db8228814863cd34c:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Entertainment",CRIME & INVESTIGATION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc1baf47ae3b63a2bc244206bb3787:db1ee2b8994b91aa065849ef3e493787
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|22fc1baf47ae3b63a2bc244206bb3787:db1ee2b8994b91aa065849ef3e493787
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 
