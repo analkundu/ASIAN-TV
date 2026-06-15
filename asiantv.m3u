@@ -196,3 +196,48 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AsianFoodNetwork)/master
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#============Kids==========
+
+#EXTINF:-1 group-title="Kids",DreamWorks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
+
+#EXTINF:-1 group-title="Kids",Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Moonbug)/master.mpd?kid=c3189457-b38b-4ed9-888c-5a2e763f0ab8
+
+#EXTINF:-1 group-title="Kids",Nick Jr.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Nickjr)/master.mpd?kid=fe60385d-a93e-48cd-a9dc-e2c686862462
+
+#EXTINF:-1 group-title="Kids",Cbeebies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?kid=cc5bdbd0-24fe-456b-a661-3471e4931041
+
+#EXTINF:-1 group-title="Kids",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Nickelodeon)/master.mpd?kid=9b10e787-fac8-4ff4-84c8-c7d7f7668925
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CartoonNet)/master.mpd?kid=2da2675c-6da3-4253-b376-318ef350cf19
+
