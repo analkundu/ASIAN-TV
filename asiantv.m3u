@@ -137,16 +137,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=
 #KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
-
-#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Entertainment",CRIME & INVESTIGATION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
