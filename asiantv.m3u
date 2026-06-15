@@ -185,7 +185,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(BBCLife)/master.mpd?kid=
 #KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd?kid=d6f69611-e9e9-4a1c-ba59-1f855b191362
 
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
