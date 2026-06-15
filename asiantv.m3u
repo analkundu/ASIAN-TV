@@ -130,13 +130,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
 
-#EXTINF:-1 group-title="Entertainment",HGTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
@@ -168,3 +161,31 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#=====lifestyle==========
+
+#EXTINF:-1 group-title="Lifestyle",HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Lifestyle" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(BBCLife)/master.mpd?kid=2610c65b-f277-40e2-9f9c-c41dc3549781
+
+#EXTINF:-1 group-title="Lifestyle",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd?kid=d6f69611-e9e9-4a1c-ba59-1f855b191362
+
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
