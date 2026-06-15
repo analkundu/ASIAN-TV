@@ -215,7 +215,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP" group-title="Kids",DreamWorks HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",DreamWorks HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
