@@ -169,7 +169,7 @@ https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
 #EXTINF:-1 tvg-name="PARAS GOLD" group-title="Entertainment",PARAS GOLD
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-name="PITAARA" tvg-logo="https://papaji.freetvindia.com/media/channels/PITAARA/index.m3u8" group-title="Movies",PITAARA
+#EXTINF:-1 tvg-name="PITAARA" group-title="Movies",PITAARA
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 #EXTINF:-1 tvg-name="PTC MUSIC" group-title="Music",PTC MUSIC
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
@@ -229,7 +229,7 @@ https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
 https://mumt05.tangotv.in/87NeALx2DDODIA/index.m3u8
 #EXTINF:-1 tvg-name="DD RAJASTHAN" group-title="DD Network",DD RAJASTHAN
 https://mumt05.tangotv.in/87NeALx2DDRAJASTHAN/index.m3u8
-#EXTINF:-1 tvg-name="DD URDU" group-title="DD Network",DD URDU
+#EXTINF:-1 tvg-name="DD URDU" tvg-logo="https://papaji.freetvindia.com/media/channels/DD_urdu_2Y1e95n.png" group-title="DD Network",DD URDU
 https://mumt05.tangotv.in/87NeALx2DDURDU/index.m3u8
 #EXTINF:-1 tvg-name="DIVYA" group-title="Devotional",DIVYA
 https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
@@ -311,4 +311,4 @@ https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
 #EXTINF:-1 tvg-name="REPUBLIC BHARAT" group-title="News",REPUBLIC BHARAT
 https://mumt06.tangotv.in/qYyB8fXVREPUBLICBHARAT/index.m3u8
-#EXTINF:-
+#EXTINF:
