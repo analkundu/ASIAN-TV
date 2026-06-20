@@ -3,31 +3,6 @@
 #EXTINF:-1 tvg-logo="http://p-img.movetv.com/1280x720/086f8021c12d9ec29a9f1a2c2a468ae1.png" group-title="FIFA WC 2026",Fox4K
 https://la.drmlive.net/tp/sling-2152.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png",TSN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png",TSN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png",TSN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png",TSN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png",TSN 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-
 #EXTINF:-1 tvg-id="143327" tvg-logo="https://metaimg.sundirectgo.in/143327/1000x1500_Unite8Sports1HD_143327_59a8f8d7-49f0-4481-b4c0-3d61a38d9e46.jpg" group-title="FIFA WC 2026", Unite8 Sports 1HD (Sungo)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/sungo-wv
