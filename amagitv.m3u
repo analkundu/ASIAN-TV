@@ -89,12 +89,6 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 
 # --- Movies & Series ---
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/SsVLHrkc/z-cinema.jpg" group-title="Movies", Zee Cinema HD
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBollyMovies.in" tvg-name="Zee BollyMovies" tvg-logo="https://i.postimg.cc/pTPpbML6/zee-bollymovies.jpg" group-title="Movies", Zee BollyMovies
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MOVIES/b4u_movies_logo_resized_400x200.png" group-title="Movies", B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
 
@@ -107,14 +101,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="Movie Sphere" tvg-logo="https://i.postimg.cc/13Sq4MQs/Bollywood-Classic.png" group-title="Movies", Movie Sphere
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Movies", Court TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="Shemaroo Bollywood" tvg-logo="https://i.postimg.cc/0NW9N0WT/Shemaroo-Bollywood.png" group-title="Movies", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/L8BMr3m8/hbo2.jpg" group-title="Movies", HBO 2 (TD Endpoint)
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies", Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
@@ -127,15 +115,6 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 
 #EXTINF:-1 tvg-id="ZeeHorrorNights.in" tvg-name="Zee Horror Nights" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Movies", Zee Horror Nights
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="https://i.postimg.cc/mD8g8Z6m/bbc-drama.png" group-title="Entertainment", BBC Drama Loop
-https://amg00793-amg00793c1-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCDramaA-hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBCDoctorWho.uk" tvg-name="BBC Doctor Who" tvg-logo="https://i.postimg.cc/mD8g8Z6m/bbc-doctorwho.png" group-title="Entertainment", BBC Doctor Who Loop
-https://amg00793-amg00793c5-roku-us-2766.playouts.now.amagi.tv/BBCStudios-BBCDoctorWhoA-hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Atrangii.in" tvg-name="Atrangii" tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Entertainment", Atrangii
-https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Brat/brattv_logo_resized_400x200.png" group-title="Entertainment", Brat TV
 https://amg00350-bratstudio-amg00350c1-lg-in-2365.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-lgin/playlist.m3u8
@@ -279,14 +258,8 @@ https://amg02873-kravemedia-amg02873c1-lg-in-1990.playouts.now.amagi.tv/playlist
 https://amg00315-amg00315c1-lg-in-2546.playouts.now.amagi.tv/playlist/amg00315-sportsgridfast-sportsgrid-lgin/playlist.m3u8
 
 # --- Kids & Family ---
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="Kids", Cartoon Network
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
-
-#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax (IN)" tvg-logo="https://i.postimg.cc/8PQrRLN8/Animax.png" group-title="Kids", Animax India
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-logo="https://i.postimg.cc/8PQrRLN8/Animax.png" group-title="Kids", Animax India
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Animax.au" tvg-name="Animax (AU)" tvg-logo="https://i.postimg.cc/8PQrRLN8/Animax.png" group-title="Kids", Animax Australia
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel" tvg-logo="https://companieslogo.com/img/orig/TOON-a2def49e.png" group-title="Kids", Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
