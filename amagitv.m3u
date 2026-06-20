@@ -1,0 +1,174 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/all/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz" refresh="3600"
+
+# --- News ---
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="AajTak" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Aajtak/AT-400x200-white-bg.png" group-title="News", AajTak[span_1](start_span)[span_1](end_span)
+https://amg00644-tvtoday-amg00644c3-lg-in-3510.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-aajtak-lgin/playlist.m3u8[span_2](start_span)[span_2](end_span)
+
+#EXTINF:-1 tvg-id="IndiaTvNews.in" tvg-name="IndiaTv News" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVLIVE/ITVlogo200x400.png" group-title="News", IndiaTv News[span_3](start_span)[span_3](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-lg-lgin/playlist.m3u8[span_4](start_span)[span_4](end_span)
+
+#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_India_400x200.png" group-title="News", News18 India[span_5](start_span)[span_5](end_span)
+https://amg00866-amg00866c1-lg-in-3521.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18india-lgin/playlist.m3u8[span_6](start_span)[span_6](end_span)
+
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="TV9 Bharatvarsh" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bharatvarsh_400x200-updated.jpg" group-title="News", TV9 Bharatvarsh[span_7](start_span)[span_7](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvarsh-lgin/playlist.m3u8[span_8](start_span)[span_8](end_span)
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/NEWS/200x400.png" group-title="News", ABP News[span_9](start_span)[span_9](end_span)
+https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8[span_10](start_span)[span_10](end_span)
+
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTVIndia" tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTV_India_dark.jpg" group-title="News", NDTVIndia[span_11](start_span)[span_11](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtvindia-lgin/playlist.m3u8[span_12](start_span)[span_12](end_span)
+
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News24" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/News24liveA/LOGO/News24_logo_resized_400x200.jpg" group-title="News", News24[span_13](start_span)[span_13](end_span)
+https://amg13643-amg13643c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0173/playlist.m3u8[span_14](start_span)[span_14](end_span)
+
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/ZeeNews/200x-400px-landscape-zee-news.jpg" group-title="News", Zee News[span_15](start_span)[span_15](end_span)
+https://amg02481-amg02481c3-lg-in-5171.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeenews-lgin/playlist.m3u8[span_16](start_span)[span_16](end_span)
+
+#EXTINF:-1 tvg-id="NewsNation.in" tvg-name="News Nation" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/News_Nation_Logo_400X200.png" group-title="News", News Nation[span_17](start_span)[span_17](end_span)
+https://amg24335-amg24335c1-amgplt0173.playout.now3.amagi.tv/playlist/amg24335-amg24335c1-amgplt0173/playlist.m3u8[span_18](start_span)[span_18](end_span)
+
+#EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/GNT/GNT-400x200-white-bg.png" group-title="News", Good News Today[span_19](start_span)[span_19](end_span)
+https://amg00644-tvtoday-amg00644c2-lg-in-3508.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-goodnewstoday-lgin/playlist.m3u8[span_20](start_span)[span_20](end_span)
+
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="CNBC Awaaz" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC-All-Logos-White_AWAAZ-400-x-200.png" group-title="News", CNBC Awaaz[span_21](start_span)[span_21](end_span)
+https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbcawaaz-lgin/playlist.m3u8[span_22](start_span)[span_22](end_span)
+
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/ZeeBusiness/200-x-400-px-landscape-zee-biz.jpg" group-title="News", Zee Business[span_23](start_span)[span_23](end_span)
+https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeebusiness-lgin/playlist.m3u8[span_24](start_span)[span_24](end_span)
+
+#EXTINF:-1 tvg-id="News18MPCG.in" tvg-name="News18 MP Chhattisgarh" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_MPCG_400x200.png" group-title="News", News18 MP Chhattisgarh[span_25](start_span)[span_25](end_span)
+https://amg00866-amg00866c3-lg-in-3518.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18mpchhattisgarh-lgin/playlist.m3u8[span_26](start_span)[span_26](end_span)
+
+#EXTINF:-1 tvg-id="News18UPUK.in" tvg-name="News18 UP Uttarakhand" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_UPUK_400x200.png" group-title="News", News18 UP Uttarakhand[span_27](start_span)[span_27](end_span)
+https://amg00866-amg00866c4-lg-in-3519.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18uputtarakhand-lgin/playlist.m3u8[span_28](start_span)[span_28](end_span)
+
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in" tvg-name="IndiaTVSpeedNews" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/SpeedNews/SpeedNewslogo200x400.png" group-title="News", IndiaTVSpeedNews[span_29](start_span)[span_29](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-internalapp-ono/playlist.m3u8[span_30](start_span)[span_30](end_span)
+
+#EXTINF:-1 tvg-id="News18BiharJharkhand.in" tvg-name="News18 Bihar Jharkhand" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/news18biharlogo.png" group-title="News", News18 Bihar Jharkhand[span_31](start_span)[span_31](end_span)
+https://amg02674-amg02674c15-lg-in-9466.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02674-network18fast-news18biharjharkhandnew-lgin/playlist.m3u8[span_32](start_span)[span_32](end_span)
+
+#EXTINF:-1 tvg-id="News24MPCG.in" tvg-name="News24 MP CG" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/BAGConvergence/MPCG/LOGO-2.jpg" group-title="News", News24 MP CG[span_33](start_span)[span_33](end_span)
+https://amg13643-amg13643c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0173/playlist.m3u8[span_34](start_span)[span_34](end_span)
+
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaToday/ITTV-400x200.png" group-title="News", India Today[span_35](start_span)[span_35](end_span)
+https://amg00644-tvtoday-amg00644c1-lg-in-3506.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-lgin/playlist.m3u8[span_36](start_span)[span_36](end_span)
+
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN News18" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/NW18/CNN/CNN_News18_400x200.jpg" group-title="News", CNN News18[span_37](start_span)[span_37](end_span)
+https://amg00866-amg00866c5-lg-in-3520.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnnnews18-lgin/playlist.m3u8[span_38](start_span)[span_38](end_span)
+
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV24x7" tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTV24x7-black.jpg" group-title="News", NDTV24x7[span_39](start_span)[span_39](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtv24x7-lgin/playlist.m3u8[span_40](start_span)[span_40](end_span)
+
+#EXTINF:-1 tvg-id="ZeeWion.in" tvg-name="Zee Wion" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/WION/200x-400-px-landscape-wion.jpg" group-title="News", Zee Wion[span_41](start_span)[span_41](end_span)
+https://amg02481-amg02481c1-lg-in-5173.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-wion-lgin/playlist.m3u8[span_42](start_span)[span_42](end_span)
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9 Live" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/NN_400x200-px-updated.jpg" group-title="News", News9 Live[span_43](start_span)[span_43](end_span)
+https://amg01106-tv9-amg01106c3-lg-in-2095.playouts.now.amagi.tv/playlist/amg01106-tv9fast-news9-lgin/playlist.m3u8[span_44](start_span)[span_44](end_span)
+
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/CNBC_All_Logos_White_TV18_400x200.png" group-title="News", CNBC TV18[span_45](start_span)[span_45](end_span)
+https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-cnbctv18-lgin/playlist.m3u8[span_46](start_span)[span_46](end_span)
+
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/profit-logo-black.jpg" group-title="News", NDTV Profit[span_47](start_span)[span_47](end_span)
+https://amg01605-ndtv-amg01605c3-lg-in-2754.playouts.now.amagi.tv/playlist/amg01605-ndtv-ndtvprofit-lgin/playlist.m3u8[span_48](start_span)[span_48](end_span)
+
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euro News" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Euronews/euronews_logo_resized_400x200_updated.png" group-title="News", Euro News[span_49](start_span)[span_49](end_span)
+https://amg00882-amg00882c2-lg-in-5560.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-lgin/playlist.m3u8[span_50](start_span)[span_50](end_span)
+
+#EXTINF:-1 tvg-id="YahooNews.us" tvg-name="Yahoo News" tvg-logo="https://i.postimg.cc/Vb8VmBjp/yahoo.png" group-title="News", Yahoo News
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-name="Fox News Now" tvg-logo="https://i.postimg.cc/8Chwy7HM/foxnews.png" group-title="News", Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USATodayNews.us" tvg-name="USA Today News" tvg-logo="https://i.postimg.cc/tgKdHpry/usatoday.png" group-title="News", USA Today News
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReutersNow.us" tvg-name="Reuters Now" tvg-logo="https://i.postimg.cc/9F4Zt6h6/reuters.png" group-title="News", Reuters Now
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
+# --- Movies & Series ---
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/SsVLHrkc/z-cinema.jpg" group-title="Movies", Zee Cinema HD
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBollyMovies.in" tvg-name="Zee BollyMovies" tvg-logo="https://i.postimg.cc/pTPpbML6/zee-bollymovies.jpg" group-title="Movies", Zee BollyMovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MOVIES/b4u_movies_logo_resized_400x200.png" group-title="Movies", B4U Movies[span_51](start_span)[span_51](end_span)
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8[span_52](start_span)[span_52](end_span)
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="Movies", B4U Kadak[span_53](start_span)[span_53](end_span)
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8[span_54](start_span)[span_54](end_span)
+
+#EXTINF:-1 tvg-id="ActionHollywood.us" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="Movie Sphere" tvg-logo="https://i.postimg.cc/13Sq4MQs/Bollywood-Classic.png" group-title="Movies", Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Movies", Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="Shemaroo Bollywood" tvg-logo="https://i.postimg.cc/0NW9N0WT/Shemaroo-Bollywood.png" group-title="Movies", Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/L8BMr3m8/hbo2.jpg" group-title="Movies", HBO 2 (TD Endpoint)
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Movies", Zee Dil Se[span_55](start_span)[span_55](end_span)
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8[span_56](start_span)[span_56](end_span)
+
+#EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies", Zee Cine Classic[span_57](start_span)[span_57](end_span)
+https://amg00862-amg008628-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8[span_58](start_span)[span_58](end_span)
+
+#EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies", Zee South Flix[span_59](start_span)[span_59](end_span)
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8[span_60](start_span)[span_60](end_span)
+
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in" tvg-name="Zee Horror Nights" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Movies", Zee Horror Nights[span_61](start_span)[span_61](end_span)
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8[span_62](start_span)[span_62](end_span)
+
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="https://i.postimg.cc/mD8g8Z6m/bbc-drama.png" group-title="Entertainment", BBC Drama Loop
+https://amg00793-amg00793c1-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCDramaA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDoctorWho.uk" tvg-name="BBC Doctor Who" tvg-logo="https://i.postimg.cc/mD8g8Z6m/bbc-doctorwho.png" group-title="Entertainment", BBC Doctor Who Loop
+https://amg00793-amg00793c5-roku-us-2766.playouts.now.amagi.tv/BBCStudios-BBCDoctorWhoA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Atrangii.in" tvg-name="Atrangii" tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Entertainment", Atrangii[span_63](start_span)[span_63](end_span)
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8[span_64](start_span)[span_64](end_span)
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Brat/brattv_logo_resized_400x200.png" group-title="Entertainment", Brat TV[span_65](start_span)[span_65](end_span)
+https://amg00350-bratstudio-amg00350c1-lg-in-2365.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-lgin/playlist.m3u8[span_66](start_span)[span_66](end_span)
+
+# --- Regional Languages (Bengali, Marathi, etc.) ---
+#EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/cine%20jomjomat_400X200.png" group-title="Regional", Cine Jomjomat[span_67](start_span)[span_67](end_span)
+https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8[span_68](start_span)[span_68](end_span)
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr10 Bangla" tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="Regional", Enterr10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bangla_400x200-px-updated.jpg" group-title="Regional", TV9 Bangla[span_69](start_span)[span_69](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bangla-lgin/playlist.m3u8[span_70](start_span)[span_70](end_span)
+
+#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Bangla.png" group-title="Regional", News18 Bangla[span_71](start_span)[span_71](end_span)
+https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-lgin/playlist.m3u8[span_72](start_span)[span_72](end_span)
+
+#EXTINF:-1 tvg-id="News18Lokmat.in" tvg-name="News18 Lokmat" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/network18/news18lokmat/Lglogos/LOGO%20400X200.png" group-title="Regional", News18 Lokmat[span_73](start_span)[span_73](end_span)
+https://amg02674-amg02674c18-lg-in-9473.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02674-network18fast-news18lokmat-lgin/playlist.m3u8[span_74](start_span)[span_74](end_span)
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Marathi_400x200-px-update.jpg" group-title="Regional", TV9 Marathi[span_75](start_span)[span_75](end_span)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9marathi-lgin/playlist.m3u8[span_76](start_span)[span_76](end_span)
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/MAJA/Majha.png" group-title="Regional", ABP Majha[span_77](start_span)[span_77](end_span)
+https://amg01043-abpnewsnetwork-amg01043c3-lg-in-2043.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpmajha-lgin/playlist.m3u8[span_78](start_span)[span_78](end_span)
+
+#EXTINF:-1 tvg-id="NDTVMarathi.in" tvg-name="NDTV Marathi" tvg-logo="https://d2cv8l6xnxpisu.cloudfront.net/NDTVMarathi/NDTV-Marathi-dark.jpg" group-title="Regional", NDTV Marathi[span_79](start_span)[span_79](end_span)
+https://amg01605-amg01605c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01605-amg01605c1-amgplt0173/playlist.m3u8[span_80](start_span)[span_80](end_span)
+
+#EXTINF:-1 tvg-id="Zee24Taas.in" tvg-name="Zee 24 Taas" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ZEE/Zee24Taas/zee-Marathi.png" group-title="Regional", Zee 24 Taas[span_81](start_span)[span_81](end_span)
+https://amg02481-amg02481c4-lg-in-5174.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zee24taas-lgin/playlist.m3u8[span_82](start_span)[span_82](end_span)
+
+#EXTINF:-1 tvg-id="SaamTv.in" tvg-name="SaamTv" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SaamTV/LG/SaamTVLogo_400x200.jpg" group-title="Regional", SaamTv[span_83](start_span)[span_83](end_span)
+https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8[span_84](start_span)[span_84](end_span)
+
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Gujarati_400x200-px-Updated.jpg" group-title="Regional", TV9 Gujarati[span_8
