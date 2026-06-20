@@ -1,0 +1,56 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/all/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz" refresh="3600"
+
+# --- News ---
+#EXTINF:-1 tvg-id="ReutersNow.us" tvg-name="Reuters Now" tvg-logo="https://i.postimg.cc/9F4Zt6h6/reuters.png" group-title="News", Reuters
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
+# --- Sports & Cricket ---
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://yt3.googleusercontent.com/J9caFjlO0_bU2ZBsy71DuamvYztO2aGXzNwe1du8Fp1y7QY2vNQdqt3_B7su85vPDxha2A-M-Ws=s900-c-k-c0x00ffffff-no-rj" group-title="Sports", Willow Sports
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports", beIN Extra (Xumo)
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+
+# --- Movies & Entertainment ---
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD" tvg-logo="https://pbs.twimg.com/profile_images/971359116122767360/zfwcAwYB_400x400.jpg" group-title="Movies", Zee Cinema HD
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBollyMovies.in" tvg-name="Zee BollyMovies" tvg-logo="https://i.postimg.cc/pTPpbML6/zee-bollymovies.jpg" group-title="Movies", Zee BollyMovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/tgwF8wQJ/B4-U-Movies.png" group-title="Movies", B4U Movies (Amagi Playout)
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://i.postimg.cc/zvnwCjQB/B4-U-Kadak.png" group-title="Movies", B4U Kadak (Amagi Playout)
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="Entertainment", Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+# --- Infotainment & Documentaries ---
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/mD8g8Z6m/bbc-earth.png" group-title="Infotainment", BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.in" tvg-name="The History Channel" tvg-logo="https://i.postimg.cc/bNfXb7YV/history-channel.png" group-title="Infotainment", The History Channel (English)
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" tvg-logo="https://i.postimg.cc/D0dNzHq7/cna.jpg" group-title="Infotainment", CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+# --- Kids & Anime ---
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-logo="https://i.postimg.cc/8PQrRLN8/Animax.png" group-title="Kids", Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel" tvg-logo="https://companieslogo.com/img/orig/TOON-a2def49e.png?t=1720244494" group-title="Kids", Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+# --- Music ---
+#EXTINF:-1 tvg-id="CaliforniaMusic.us" tvg-name="California Music" tvg-logo="https://i.postimg.cc/tgKdHpry/cmc.jpg" group-title="Music", California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/640x360_1205600/index.m3u8
+
+# --- Regional & Afro ---
+#EXTINF:-1 tvg-id="EbonyTV.us" tvg-name="Ebony TV" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="Afrotainment", Ebony TV
+https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NollyAfrica.ng" tvg-name="Nolly Africa" tvg-logo="https://i.postimg.cc/ncHCB2vs/nolly.png" group-title="Afrotainment", Nolly Africa
+https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
