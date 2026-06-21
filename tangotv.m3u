@@ -161,7 +161,7 @@ https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
 #EXTINF:-1 tvg-name="MANORANJAN MOVIES" tvg-logo="https://papaji.freetvindia.com/media/Manoranjan_movies.png" group-title="Movies",MANORANJAN MOVIES
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
-#EXTINF:-1 tvg-name="MHONE" group-title="Music",MHONE
+#EXTINF:-1 tvg-name="MHONE" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000261.png" group-title="Music",MHONE
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
 #EXTINF:-1 tvg-name="MHONE NEWS" group-title="News",MHONE NEWS
 https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
