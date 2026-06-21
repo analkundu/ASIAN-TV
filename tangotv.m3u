@@ -105,15 +105,15 @@ https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8
 #EXTINF:-1 tvg-name="SADHNA PLUS NEWS" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000189.png" group-title="News",SADHNA PLUS NEWS
 https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8
-#EXTINF:-1 tvg-name="SHUBH SANDESH" group-title="Devotional",SHUBH SANDESH
+#EXTINF:-1 tvg-name="SHUBH SANDESH" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/761959198.png" group-title="Devotional",SHUBH SANDESH
 https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
-#EXTINF:-1 tvg-name="SHUBH TV" group-title="Devotional",SHUBH TV
+#EXTINF:-1 tvg-name="SHUBH TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/758448759.png" group-title="Devotional",SHUBH TV
 https://mumt03.tangotv.in/Dsly5z3HSHUBHTV/index.m3u8
-#EXTINF:-1 tvg-name="SOHAM TV" group-title="Devotional",SOHAM TV
+#EXTINF:-1 tvg-name="SOHAM TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/731127488.png" group-title="Devotional",SOHAM TV
 https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-name="TV5 MONDE ASIA" tvg-logo="https://papaji.freetvindia.com/media/channels/tv5_monde_asia.png" group-title="International",TV5 MONDE ASIA
 https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
-#EXTINF:-1 tvg-name="TV9 GUJARATI" group-title="News",TV9 GUJARATI
+#EXTINF:-1 tvg-name="TV9 GUJARATI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/0829717131780577787477.png" group-title="News",TV9 GUJARATI
 https://mumt03.tangotv.in/Dsly5z3HTV9GUJARATI/index.m3u8
 #EXTINF:-1 tvg-name="VALAM DAIRO" tvg-logo="https://papaji.freetvindia.com/media/channels/Valam_Dayro.png" group-title="Entertainment",VALAM DAIRO
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
@@ -125,7 +125,7 @@ https://mumt03.tangotv.in/Dsly5z3HZEEBHJH/index.m3u8
 #   ================================================================
 #EXTINF:-1 tvg-name="ABP NEWS" tvg-logo="https://papaji.freetvindia.com/media/ABP_NEWS_HINDI.png" group-title="News",ABP NEWS
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
-#EXTINF:-1 tvg-name="ABP SANJHA" group-title="News",ABP SANJHA
+#EXTINF:-1 tvg-name="ABP SANJHA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7076633471780576987474.png" group-title="News",ABP SANJHA
 https://mumt04.tangotv.in/m18aqlK4ABPSANJHA/index.m3u8
 #EXTINF:-1 tvg-name="AAJKI KHABAR" tvg-logo="https://papaji.freetvindia.com/media/channels/aaj_ki_khabar.png" group-title="News",AAJKI KHABAR
 https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
@@ -133,17 +133,17 @@ https://mumt04.tangotv.in/m18aqlK4AAJKIKHABAR/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/index.m3u8
 #EXTINF:-1 tvg-name="BALLE BALLE" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9871780576528623.png" group-title="Music",BALLE BALLE
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
-#EXTINF:-1 tvg-name="DANGAL" group-title="Entertainment",DANGAL
+#EXTINF:-1 tvg-name="DANGAL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/765040569.png" group-title="Entertainment",DANGAL
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
 #EXTINF:-1 tvg-name="DD KISAN" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000063.png" group-title="DD Network",DD KISAN
 https://mumt04.tangotv.in/m18aqlK4DDKISAN/index.m3u8
 #EXTINF:-1 tvg-name="DD NEWS" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000352.png" group-title="DD Network",DD NEWS
 https://mumt04.tangotv.in/m18aqlK4DDNEWS/index.m3u8
-#EXTINF:-1 tvg-name="DD TAMIL" group-title="DD Network",DD TAMIL
+#EXTINF:-1 tvg-name="DD TAMIL" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-105771780576053098.png" group-title="DD Network",DD TAMIL
 https://mumt04.tangotv.in/m18aqlK4DDTAMIL/index.m3u8
 #EXTINF:-1 tvg-name="DD MADHYA PRADESH" tvg-logo="https://papaji.freetvindia.com/media/channels/DD_Madhypreadesh.png" group-title="DD Network",DD MADHYA PRADESH
 https://mumt04.tangotv.in/m18aqlK4DDMADHYAPRADESH/index.m3u8
-#EXTINF:-1 tvg-name="E24" group-title="Entertainment",E24
+#EXTINF:-1 tvg-name="E24" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/6957357871780575282589.png" group-title="Entertainment",E24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 #EXTINF:-1 tvg-name="EPIC MUSIC" tvg-logo="https://papaji.freetvindia.com/media/channels/EPIC_Music.png" group-title="Music",EPIC MUSIC
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
@@ -153,9 +153,9 @@ https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000243.png" group-title="Movies",GOLDMINES MOVIES
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
-#EXTINF:-1 tvg-name="HINDI KHABAR" group-title="News",HINDI KHABAR
+#EXTINF:-1 tvg-name="HINDI KHABAR" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10411780576321406.png" group-title="News",HINDI KHABAR
 https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8
-#EXTINF:-1 tvg-name="INSYNC" group-title="Music",INSYNC
+#EXTINF:-1 tvg-name="INSYNC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/765786021.png" group-title="Music",INSYNC
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 tvg-name="MANORANJAN TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Manoranjan_TV.png" group-title="Entertainment",MANORANJAN TV
 https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
@@ -163,19 +163,19 @@ https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-name="MHONE" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000261.png" group-title="Music",MHONE
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
-#EXTINF:-1 tvg-name="MHONE NEWS" group-title="News",MHONE NEWS
+#EXTINF:-1 tvg-name="MHONE NEWS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699771071.jpeg" group-title="News",MHONE NEWS
 https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-name="MKN NEWS HINDI" tvg-logo="https://papaji.freetvindia.com/media/channels/MKN_NEWS_hindi.png" group-title="News",MKN NEWS HINDI
 https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
-#EXTINF:-1 tvg-name="PARAS GOLD" group-title="Entertainment",PARAS GOLD
+#EXTINF:-1 tvg-name="PARAS GOLD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/730556310.png" group-title="Entertainment",PARAS GOLD
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-name="PITAARA" group-title="Movies",PITAARA
+#EXTINF:-1 tvg-name="PITAARA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-105531780575858723.png" group-title="Movies",PITAARA
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
-#EXTINF:-1 tvg-name="PTC MUSIC" group-title="Music",PTC MUSIC
+#EXTINF:-1 tvg-name="PTC MUSIC" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-150371780575993269.png" group-title="Music",PTC MUSIC
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
-#EXTINF:-1 tvg-name="PTC PUNJABI" group-title="Punjabi",PTC PUNJABI
+#EXTINF:-1 tvg-name="PTC PUNJABI" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10556.jpg" group-title="Punjabi",PTC PUNJABI
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
-#EXTINF:-1 tvg-name="PTC PUNJABI GOLD" group-title="Punjabi",PTC PUNJABI GOLD
+#EXTINF:-1 tvg-name="PTC PUNJABI GOLD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-105551780575701673.png" group-title="Punjabi",PTC PUNJABI GOLD
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 #EXTINF:-1 tvg-name="RAFTAAR MEDIA" group-title="News",RAFTAAR MEDIA
 https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
@@ -193,7 +193,7 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
 #EXTINF:-1 tvg-name="SUBHARTI TV" group-title="Entertainment",SUBHARTI TV
 https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
-#EXTINF:-1 tvg-name="SWARAJ EXPRESS" group-title="News",SWARAJ EXPRESS
+#EXTINF:-1 tvg-name="SWARAJ EXPRESS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4771780576379169.png" group-title="News",SWARAJ EXPRESS
 https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
 
 #   ================================================================
