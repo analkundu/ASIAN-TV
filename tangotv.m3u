@@ -89,13 +89,13 @@ https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8
 #EXTINF:-1 tvg-name="INDIA NEWS MPCG" tvg-logo="https://papaji.freetvindia.com/media/channels/India_news_mpcg.png" group-title="News",INDIA NEWS MPCG
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSMPCG/index.m3u8
-#EXTINF:-1 tvg-name="INDIA NEWS RAJASTHAN" group-title="News",INDIA NEWS RAJASTHAN
+#EXTINF:-1 tvg-name="INDIA NEWS RAJASTHAN" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/7662294811780575598044.png" group-title="News",INDIA NEWS RAJASTHAN
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSRAJASTHAN/index.m3u8
 #EXTINF:-1 tvg-name="NDTV RAJASTHAN" tvg-logo="https://papaji.freetvindia.com/media/NDTV_Rajasthan.png" group-title="News",NDTV RAJASTHAN
 https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8
 #EXTINF:-1 tvg-name="NEWS NATION" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000020.png" group-title="News",NEWS NATION
 https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8
-#EXTINF:-1 tvg-name="NEWSX WORLD" group-title="News",NEWSX WORLD
+#EXTINF:-1 tvg-name="NEWSX WORLD" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/756667457.png" group-title="News",NEWSX WORLD
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 #EXTINF:-1 tvg-name="ORANGE BANGLA" tvg-logo="https://papaji.freetvindia.com/media/channels/Orange_Bangla.png" group-title="Bengali",ORANGE BANGLA
 https://mumt03.tangotv.in/Dsly5z3HORANGEBANGLA/index.m3u8
