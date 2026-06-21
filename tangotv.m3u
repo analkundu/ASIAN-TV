@@ -5,7 +5,7 @@
 #   ================================================================
 #EXTINF:-1 tvg-name="9XM" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000092.png" group-title="Entertainment",9XM
 https://mumt01.tangotv.in/O5aw8Zn39XM/index.m3u8
-#EXTINF:-1 tvg-name="APN" group-title="News",APN
+#EXTINF:-1 tvg-name="APN" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000262.png" group-title="News",APN
 https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-name="GTC" group-title="Entertainment",GTC
 https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
