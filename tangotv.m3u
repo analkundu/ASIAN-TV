@@ -337,7 +337,7 @@ https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/tracks-v1a1/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 #EXTINF:-1 tvg-name="DD SAPTAGIRI" group-title="DD Network",DD SAPTAGIRI
 https://mumt07.tangotv.in/zHjX9OFlDDSAPTAGIRI/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="DD SPORTS" group-title="Sports",DD SPORTS
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000373.png" group-title="Sports",DD SPORTS
 https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ENTERR10 BANGLA" group-title="Bengali",ENTERR10 BANGLA
 https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/tracks-v1a1/index.m3u8
