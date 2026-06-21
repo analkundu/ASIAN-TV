@@ -93,7 +93,7 @@ https://mumt03.tangotv.in/Dsly5z3HINDIANEWSMPCG/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSRAJASTHAN/index.m3u8
 #EXTINF:-1 tvg-name="NDTV RAJASTHAN" tvg-logo="https://papaji.freetvindia.com/media/NDTV_Rajasthan.png" group-title="News",NDTV RAJASTHAN
 https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8
-#EXTINF:-1 tvg-name="NEWS NATION" group-title="News",NEWS NATION
+#EXTINF:-1 tvg-name="NEWS NATION" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000020.png" group-title="News",NEWS NATION
 https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8
 #EXTINF:-1 tvg-name="NEWSX WORLD" group-title="News",NEWSX WORLD
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
