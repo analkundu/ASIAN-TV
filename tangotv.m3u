@@ -137,7 +137,7 @@ https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8
 #EXTINF:-1 tvg-name="DD KISAN" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000063.png" group-title="DD Network",DD KISAN
 https://mumt04.tangotv.in/m18aqlK4DDKISAN/index.m3u8
-#EXTINF:-1 tvg-name="DD NEWS" group-title="DD Network",DD NEWS
+#EXTINF:-1 tvg-name="DD NEWS" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000352.png" group-title="DD Network",DD NEWS
 https://mumt04.tangotv.in/m18aqlK4DDNEWS/index.m3u8
 #EXTINF:-1 tvg-name="DD TAMIL" group-title="DD Network",DD TAMIL
 https://mumt04.tangotv.in/m18aqlK4DDTAMIL/index.m3u8
