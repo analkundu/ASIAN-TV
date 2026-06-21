@@ -233,7 +233,7 @@ https://mumt05.tangotv.in/87NeALx2DDRAJASTHAN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2DDURDU/index.m3u8
 #EXTINF:-1 tvg-name="DIVYA" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000012.png" group-title="Devotional",DIVYA
 https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
-#EXTINF:-1 tvg-name="DW TV" group-title="International",DW TV
+#EXTINF:-1 tvg-name="DW TV" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-4311780577832590.png" group-title="International",DW TV
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-name="GOODNEWS TV" group-title="Devotional",GOODNEWS TV
 https://mumt05.tangotv.in/87NeALx2GOODNEWSTV/index.m3u8
@@ -247,7 +247,7 @@ https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
 https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
 #EXTINF:-1 tvg-name="KHABRAIN ABHI TAK" tvg-logo="https://papaji.freetvindia.com/media/khabre_abhi_tak.png" group-title="News",KHABRAIN ABHI TAK
 https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
-#EXTINF:-1 tvg-name="MUSIC INDIA" group-title="Music",MUSIC INDIA
+#EXTINF:-1 tvg-name="MUSIC INDIA" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-2261780575181686.png" group-title="Music",MUSIC INDIA
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-name="NEPAL 1" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000046.png" group-title="International",NEPAL 1
 https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
