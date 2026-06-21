@@ -333,7 +333,7 @@ https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="BHARAT EXPRESS" tvg-logo="https://papaji.freetvindia.com/media/Bharat_Express.png" group-title="News",BHARAT EXPRESS
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="BS TV" group-title="News",BS TV
+#EXTINF:-1 tvg-name="BS TV" tvg-logo="https://papaji.freetvindia.com/media/channels/9005123451000220.png" group-title="News",BS TV
 https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 #EXTINF:-1 tvg-name="DD SAPTAGIRI" group-title="DD Network",DD SAPTAGIRI
 https://mumt07.tangotv.in/zHjX9OFlDDSAPTAGIRI/tracks-v1a1/index.m3u8
