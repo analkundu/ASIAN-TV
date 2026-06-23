@@ -1,0 +1,251 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="A2Z (CIG)" group-title="Philippines",A2Z (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_a2z.mpd
+
+#EXTINF:-1 tvg-name="IBC (CIG)" group-title="Philippines",IBC (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+#EXTINF:-1 tvg-name="PTV4 (CIG)" group-title="Philippines",PTV4 (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#EXTINF:-1 tvg-name="KNOWLEDGE CHANNELS (CIG)" group-title="Educational",KNOWLEDGE CHANNELS (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+#EXTINF:-1 tvg-name="DEPED TV" group-title="Educational",DEPED TV
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+
+#EXTINF:-1 tvg-name="TVUP" group-title="Educational",TVUP
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+
+#EXTINF:-1 tvg-name="ONE PH (CIG)" group-title="Philippines",ONE PH (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/oneph_sd.mpd
+
+#EXTINF:-1 tvg-name="VIVA CINEMA (CIG)" group-title="Movies",VIVA CINEMA (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/viva_sd.mpd
+
+#EXTINF:-1 tvg-name="PBO (CIG)" group-title="Movies",PBO (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#EXTINF:-1 tvg-name="THRILL (CIG)" group-title="Movies",THRILL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+#EXTINF:-1 tvg-name="ROCK ACTION" group-title="Entertainment",ROCK ACTION
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+
+#EXTINF:-1 tvg-name="ROCK ENTERTAIMENT" group-title="Entertainment",ROCK ENTERTAIMENT
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+
+#EXTINF:-1 tvg-name="LOTUS MACAU (CIG)" group-title="Entertainment",LOTUS MACAU (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+
+#EXTINF:-1 tvg-name="SARI-SARI" group-title="Entertainment",SARI-SARI
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
+#EXTINF:-1 tvg-name="BUKO TV" group-title="Entertainment",BUKO TV
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+#EXTINF:-1 tvg-name="TVN PREMIUM HD" group-title="Entertainment",TVN PREMIUM HD
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
+#EXTINF:-1 tvg-name="AXN CHANNEL (CIG)" group-title="Entertainment",AXN CHANNEL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+#EXTINF:-1 tvg-name="LIFETIME (CIG)" group-title="Entertainment",LIFETIME (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
+
+#EXTINF:-1 tvg-name="NBA TV PH (CIG)" group-title="Sports",NBA TV PH (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+
+#EXTINF:-1 tvg-name="RPTV (CIG)" group-title="Philippines",RPTV (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#EXTINF:-1 tvg-name="PBA RUSH HD" group-title="Sports",PBA RUSH HD
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#EXTINF:-1 tvg-name="ONE SPORTS (CIG)" group-title="Sports",ONE SPORTS (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-name="ONE SPORTS PLUS" group-title="Sports",ONE SPORTS PLUS
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#EXTINF:-1 tvg-name="UAAP VARSITY" group-title="Sports",UAAP VARSITY
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#EXTINF:-1 tvg-name="MEDIA PILIPINAS TV" group-title="Philippines",MEDIA PILIPINAS TV
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+
+#EXTINF:-1 tvg-name="SPOTV HD (CIG)" group-title="Sports",SPOTV HD (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTINF:-1 tvg-name="SPOTV 2 HD (CIG)" group-title="Sports",SPOTV 2 HD (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS (CIG)" group-title="Sports",PREMIER SPORTS (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2 (CIG)" group-title="Sports",PREMIER SPORTS 2 (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Documentary",BBC LIFESTYLE
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Documentary",BBC EARTH
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#EXTINF:-1 tvg-name="BBC NEWS (CIG)" group-title="News",BBC NEWS (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
+
+#EXTINF:-1 tvg-name="HISTORY CHANNEL (CIG)" group-title="Documentary",HISTORY CHANNEL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL (CIG)" group-title="Documentary",DISCOVERY CHANNEL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+#EXTINF:-1 tvg-name="ASIAN FOOD NETWORK (CIG)" group-title="Lifestyle",ASIAN FOOD NETWORK (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+
+#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="Lifestyle",FOOD NETWORK
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+
+#EXTINF:-1 tvg-name="CGTN CHANNEL (CIG)" group-title="News",CGTN CHANNEL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
+
+#EXTINF:-1 tvg-name="CHANNEL NEWS ASIA (CIG)" group-title="News",CHANNEL NEWS ASIA (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
+
+#EXTINF:-1 tvg-name="HGTV (CIG)" group-title="Lifestyle",HGTV (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+
+#EXTINF:-1 tvg-name="ARIRANG (CIG)" group-title="News",ARIRANG (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+
+#EXTINF:-1 tvg-name="NHK JAPAN" group-title="News",NHK JAPAN
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET (CIG)" group-title="Documentary",ANIMAL PLANET (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+#EXTINF:-1 tvg-name="TRVL CHANNEL" group-title="Documentary",TRVL CHANNEL
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+#EXTINF:-1 tvg-name="CRIME INVESTIGATION (CIG)" group-title="Documentary",CRIME INVESTIGATION (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+
+#EXTINF:-1 tvg-name="BLOOMBERG" group-title="News",BLOOMBERG
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
+
+#EXTINF:-1 tvg-name="KBS WORLD (CIG)" group-title="Entertainment",KBS WORLD (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
+
+#EXTINF:-1 tvg-name="KIX (CIG)" group-title="Entertainment",KIX (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+#EXTINF:-1 tvg-name="TECH STORM (CIG)" group-title="Entertainment",TECH STORM (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
+
+#EXTINF:-1 tvg-name="FASHION TV (CIG)" group-title="Lifestyle",FASHION TV (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+#EXTINF:-1 tvg-name="WARNER TV (CIG)" group-title="Entertainment",WARNER TV (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-name="CNN INTERNATIONAL (CIG)" group-title="News",CNN INTERNATIONAL (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
+
+#EXTINF:-1 tvg-name="ABC AUSTRALIA (CIG)" group-title="News",ABC AUSTRALIA (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+
+#EXTINF:-1 tvg-name="TV5 MONDE (CIG)" group-title="Entertainment",TV5 MONDE (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tv5_monde.mpd
+
+#EXTINF:-1 tvg-name="FRANCE24 (CIG)" group-title="News",FRANCE24 (CIG)
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
+
+#EXTINF:-1 tvg-name="NBA TV PH 24/7" group-title="Sports",NBA TV PH 24/7
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+
+#EXTINF:-1 tvg-name="PL - SDI7" group-title="Sports",PL - SDI7
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0f873c2c412b11edb8780242ac120002:9c1f27adc2a2dd23ce415e8563c07af6",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/smart_sdi7.mpd
+
+#EXTINF:-1 tvg-name="PL - SDI8" group-title="Sports",PL - SDI8
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,50ea84d79773464192071d6fc058cba1:0b1642e0a661a780e74835fe765e1319",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/smart_sdi8.mpd
+
+#EXTINF:-1 tvg-name="PL - SDI9" group-title="Sports",PL - SDI9
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,d2a24c65b3734565af71a1c3a9bbbf69:552351880bd0eb97f85c8aeccd88ffa5",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/smart_sdi9.mpd
+
+#EXTINF:-1 tvg-name="PPV - SDI97" group-title="Sports",PPV - SDI97
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,8ad18258a9814d60a67efc6ec9fb3cbd:7ce6edd4bcf1510583c7739ac8f08e79",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
+
+#EXTINF:-1 tvg-name="PILIPINAS LIVE #01" group-title="Sports",PILIPINAS LIVE #01
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+
+#EXTINF:-1 tvg-name="PILIPINAS LIVE #02" group-title="Sports",PILIPINAS LIVE #02
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+
+#EXTINF:-1 tvg-name="PILIPINAS LIVE #03" group-title="Sports",PILIPINAS LIVE #03
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854",KEYFORMAT="org.w3.clearkey",KEYFORMATVERSIONS="1"
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
+
+#EXTINF:-1 tvg-name="PILIPINAS LIVE #04" group-title="Sports",PILIPI
