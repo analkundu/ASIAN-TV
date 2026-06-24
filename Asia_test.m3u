@@ -44,9 +44,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cinemax)/master.mpd
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsM)/master.mpd
 
 #EXTINF:-1 tvg-id="AstroShowcase" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="English Movies",ASTRO SHOWCASE
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361ccccc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoieWcwWVU0aEZ1dUxMVDBvV2dEYnhkQSIsImtpZCI6InVBa01nMkhNWU1YQnFzRHNKeERlRUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/rockaction.png" group-title="English Movies",Rock Action
@@ -70,33 +68,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=4c350232-d50f-46dc-b776-ea6d12f875d2
-
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/moviesnow.png" group-title="English Movies",Movies Now HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="English Movies",MNX HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="English Movies",MN+ HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Movies",Romedy Now
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="English Movies",Sony PIX HD
-https://cloudplay-sonyliv.pages.dev/pixhd.php
 
 #====entertainment======#
 
@@ -136,45 +107,31 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMng3aXVKTExrYXJHVUVudlBrazNodyIsImtpZCI6Ikl2eGJyMGV1TzJNaXZDUkNCNnV5RUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Entertainment",CRIME & INVESTIGATION
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiMng3aXVKTExrYXJHVUVudlBrazNodyIsImtpZCI6Ikl2eGJyMGV1TzJNaXZDUkNCNnV5RUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 #=====knowlegde==========
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge",DISCOVERY
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aaeaeacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiQStvSTN4cEhacDVVV2VFRjQ3VTFzUSIsImtpZCI6IkoyZG5wWGlxNHVyTEtFSkh6Tm5yRUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png?lock=720x540" group-title="Knowledge",Animal Planet HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge",BBC EARTH
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidXh2Yko4eGY0ZXhqZlN crappyTRV13dyIsImtpZCI6IjIvWXY4SUJMeGJqVkkrOEFuWGhqRUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #EXTINF:-1 tvg-id="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fedcc369307bebeef204ca8cb4689db:3468265f7530bf1fef2049a8cb4689db
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiTkZnbVgzVXZ2eC92SUV5b3kwYUoydyIsImtpZCI6IlArN01OcE1ITXN1Mmt3YmNhSHh2RUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-
-#EXTINF:-1 tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Knowledge", Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -207,25 +164,15 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(BBCLife)/master.mpd?kid=
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd?kid=d6f69611-e9e9-4a1c-ba59-1f855b191362
 
 #EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca374553431b2b1c98:7f5e6b69698ddefcb74553431b2b1c98
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiZjE1c2FXbU4zdnkzUlZOREd5c2NtQSIsImtpZCI6ImxDN0JWaUE3S3NvZDN6U1k5bVBCRUEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ=="
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 #============Kids==========
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiM2Q0MGYyOTkwZWM1MzYyY2E1YmUzYTNjOWJiOGY4YjQiLCJraWQiOiJiZTljYWFhODEzYzUzMDVlNzYxYzY2YWM2MzY0NTkwMSJ9XSwidHlwZSI6InRlbXBvcmFyeSJ9"
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
-
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",DreamWorks HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -268,9 +215,6 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Nickelodeon)/master.mpd?
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CartoonNet)/master.mpd?kid=2da2675c-6da3-4253-b376-318ef350cf19
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Kids",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
