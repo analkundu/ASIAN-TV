@@ -96,10 +96,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd|User
 #=====KNOWLEDGE==========
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge",DISCOVERY
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"A++I3xpHZp5UWeEF47U1sQ","kid":"J2dnpXiq4urLKEJHzNnrEA"}],"type":"temporary"}
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd|User-Agent=Mozilla/5.0 (Linux; Android 10; BRAVIA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge",BBC EARTH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
