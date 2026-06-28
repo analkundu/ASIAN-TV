@@ -52,7 +52,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsM)/master.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="English Movies",Rock Action
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png" group-title="English Movies",Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
