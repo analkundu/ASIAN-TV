@@ -1,62 +1,65 @@
 #EXTM3U
-#----------ENGLISH MOVIES------------#
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="English Movies",HBO
+#=======================================================================
+# ENGLISH MOVIES
+#=======================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="English Movies",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBO)/master.mpd
 
-#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="English Movies",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="English Movies",HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="English Movies",HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="English Movies",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOH)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="English Movies",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="English Movies",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HBOF)/master.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="English Movies",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="English Movies",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cinemax)/master.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="English Movies",HITS Movies
+#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="English Movies",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsM)/master.mpd
 
-#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="English Movies",ASTRO SHOWCASE
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="Astro Showcase" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png" group-title="English Movies",ASTRO SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/rockaction.png" group-title="English Movies",Rock Action
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="English Movies",Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png" group-title="English Movies",ROCK XSTREAM
+#EXTINF:-1 tvg-id="" tvg-name="Rock XStream" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png" group-title="English Movies",ROCK XSTREAM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -64,29 +67,29 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockAction)/master.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/PEcU0p; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.1.2758.20 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="English Movies",HITS NOW
+#EXTINF:-1 tvg-id="" tvg-name="HITS NOW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="English Movies",HITS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=4c350232-d50f-46dc-b776-ea6d12f875d2
 
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/moviesnow.png" group-title="English Movies",Movies Now HD
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now HD" tvg-logo="https://get.perfecttv.net/logo/moviesnow.png" group-title="English Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="English Movies",MNX HD
+#EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="English Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="English Movies",MN+ HD
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="English Movies",MN+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Movies",Romedy Now
+#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Movies",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
@@ -94,71 +97,76 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="English Movies",Sony PIX HD
 https://cloudplay-sonyliv.pages.dev/pixhd.php
 
-#====entertainment======#
+#=======================================================================
+# ENTERTAINMENT
+#=======================================================================
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AXN)/master.mpd?kid=4345340d-92d6-4788-bef7-d99594cbe643
 
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/warnertv.png" group-title="Entertainment",Warner TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD" tvg-logo="https://get.perfecttv.net/logo/warnertv.png" group-title="Entertainment",Warner TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(WarnerTV)/master.mpd?kid=6f4ea7be-45af-4275-a8d7-6845fb19dba5
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="Entertainment",HITS
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="Entertainment",HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HITS)/master.mpd?kid=196b0113-06d0-4ac3-8c2b-8493b89a40d5
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="Entertainment",HITS NOW
+#EXTINF:-1 tvg-id="" tvg-name="HITS NOW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="Entertainment",HITS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(hitsnow)/master.mpd?kid=4c350232-d50f-46dc-b776-ea6d12f875d2
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="Entertainment",ROCK Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="ROCK Entertainment HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="Entertainment",ROCK Entertainment HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(RockEnt)/master.mpd?kid=6bbe30dc-7d79-4984-9ba0-c4f2abb2a3ff
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Entertainment",LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Entertainment",CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime & Investigation" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="Entertainment",CRIME & INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#=====knowlegde==========
+#=======================================================================
+# KNOWLEDGE
+#=======================================================================
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge",DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="Knowledge",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png?lock=720x540" group-title="Knowledge",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png?lock=720x540" group-title="Knowledge",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
-#EXTINF:-1 tvg-id="BBCEarth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge",BBC EARTH
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBC Earth" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="Knowledge",BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#EXTINF:-1 tvg-id="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -167,48 +175,56 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 #EXTINF:-1 tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Knowledge", Global Trekker
+#EXTINF:-1 tvg-id="" tvg-name="Global Trekker" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Knowledge",Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7a6c5d23f1e4a9d8c721e5d9f4a6b13:63ca9ad0d88fccb8c667b028f47287ba
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd
 
-#=====lifestyle==========
+#=======================================================================
+# LIFESTYLE
+#=======================================================================
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="Lifestyle",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="Lifestyle",HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(HGTV)/master.mpd?kid=143c537a-533b-4e53-a713-7703bc92c0f2
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Lifestyle" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="Lifestyle" tvg-name="BBC Lifestyle HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="Lifestyle",BBC Lifestyle HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(BBCLife)/master.mpd?kid=2610c65b-f277-40e2-9f9c-c41dc3549781
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Lifestyle",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="Lifestyle",Asian Food Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd?kid=d6f69611-e9e9-4a1c-ba59-1f855b191362
 
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
-#============Kids==========
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="Lifestyle",TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+#=======================================================================
+# KIDS
+#=======================================================================
 
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel
@@ -217,42 +233,42 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",DreamWorks HD
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",DreamWorks HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Dreamworks)/master.mpd?kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids",Moonbug Kids
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="Kids",Moonbug Kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Moonbug)/master.mpd?kid=c3189457-b38b-4ed9-888c-5a2e763f0ab8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="Kids",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" group-title="Kids",Nick Jr.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Nickjr)/master.mpd?kid=fe60385d-a93e-48cd-a9dc-e2c686862462
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-title="Kids",Cbeebies HD
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png" group-title="Kids",Cbeebies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Cbeebies)/master.mpd?kid=cc5bdbd0-24fe-456b-a661-3471e4931041
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nickelodeon_2024.png" group-title="Kids",Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Nickelodeon)/master.mpd?kid=9b10e787-fac8-4ff4-84c8-c7d7f7668925
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -262,9 +278,122 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CartoonNet)/master.mpd?k
 #EXTINF:-1 tvg-chno="15" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="Kids",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Animax)/master.mpd?kid=4bd30e54-5711-44eb-9168-a1a7e5915f75
+
+#=======================================================================
+# ENGLISH NEWS
+#=======================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="English News",BBC World News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0282f5cc38944bf58d8fdd9abc312339:f422861c29542fe34c866b1cd291f411
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(BBCW)/master.mpd?kid=0282f5cc-3894-4bf5-8d8f-dd9abc312339
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="English News",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c0678dad08451e955a53ee95aff30f:a05ca10851a61c2933243b7169be6679
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(AlJazeera)/master.mpd?kid=b5c0678d-ad08-451e-955a-53ee95aff30f
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-title="English News",CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67d585ef2ab4f1c88f33520eb06fa77:bb8f72c9606555ca4b386baeacc30fb0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CGTN)/master.mpd?kid=d67d585e-f2ab-4f1c-88f3-3520eb06fa77
+
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="English News",CNA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55da3b7a04b34d93a2ce0c4e3d33a6cd:57ace0638aef039c73f23056add87781
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(CAN)/master.mpd?kid=55da3b7a-04b3-4d93-a2ce-0c4e3d33a6cd
+
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Euronews_v1.png" group-title="English News",Euronews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67f4948cdafa46ebbd71eae875237023:9dc5b14da7c3c0d89d63bd9242c2dab0
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(EuroN)/master.mpd?kid=67f4948c-dafa-46eb-bd71-eae875237023
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="English News",ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(ABC)/master.mpd?kid=a6349d21-6551-4fa3-8fb6-f1348679ba36
+
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="English News",DW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d2decb97b1437fb29922333892c2e8:1f326af1645f96c0993b142e57db9ab7
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(DW)/master.mpd?kid=68d2decb-97b1-437f-b299-22333892c2e8
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD-JAPAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NHK_World_Japan_v1.png" group-title="English News",NHK WORLD-JAPAN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd?kid=bd1e473b-4fac-4c13-b6bd-73014a14df4e
+
+#=======================================================================
+# SPORTS
+#=======================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sports 1" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="Sports",Unifi Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd?kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV_v1.png" group-title="Sports",SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV)/master.mpd?kid=5b593bd5-30f1-403a-8f3e-b9b2cd9236c8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2_v1.png" group-title="Sports",SPOTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(spoTV2)/master.mpd?kid=1af079fb-8e1d-43d8-90c1-d804431ad84c
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="Sports",beIN SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein1)/master.mpd?kid=d48b6088-253c-443e-b94d-27cb7828f707
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports",beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd?kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",beIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd?kid=816ee2f7-c19f-49ed-8427-6f34541b465b
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" group-title="Sports",beIN SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd?kid=d561ff97-6397-473e-9b45-6b44cdffcdd2
