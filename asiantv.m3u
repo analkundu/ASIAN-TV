@@ -166,10 +166,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="Knowledge",HISTORY
+#EXTINF:-1 tvg-id="History" tvg-name="History HD" group-title="Knowledge" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png",HISTORY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=3feedc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 #EXTINF:-1 tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Knowledge",National Geographic
