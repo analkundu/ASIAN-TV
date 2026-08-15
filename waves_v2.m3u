@@ -59,12 +59,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/in
 #EXTINF:-1 tvg-id="10595" tvg-logo="https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png" group-title="News", TV9 BHARATVARSH
 https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10648" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp" group-title="Entertainment", ABZY DHAKAD
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-
-#EXTINF:-1 tvg-id="10647" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp" group-title="Entertainment", ABZY Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-
 #EXTINF:-1 tvg-id="10543" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NLB4H.png" group-title="Entertainment", B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
@@ -72,7 +66,7 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
 #EXTINF:-1 tvg-id="10548" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="Entertainment", B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10542" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="Entertainment", DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
