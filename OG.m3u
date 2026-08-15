@@ -21,7 +21,7 @@ https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://m3u.cloudplay.qzz.io/z5/0-9-zeecinemahd.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max HD
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png",Sony Max HD
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png",Zee Bangla HD
