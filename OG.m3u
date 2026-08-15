@@ -10,29 +10,29 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/in
 #EXTINF:-1 tvg-id="10558" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png" group-title="Regional Channels", DD BANGLA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.png",Zee TV HD
+#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0035LY1C.png",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://m3u.cloudplay.qzz.io/z5/0-9-zeetvhd.m3u8
 
-#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",SET HD
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.png",Zee Cinema HD
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movie" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://m3u.cloudplay.qzz.io/z5/0-9-zeecinemahd.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony Max HD
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max HD
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png",Zee Bangla HD
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://m3u.cloudplay.qzz.io/z5/0-9-zeebangla.m3u8
 
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png" group-title="Entertainment",Sony Aath
 https://cloudplay-sonyliv.pages.dev/aath.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://sund-images.sunnxt.com/194388/640x360_SunBangla_194388_19d1aba5-3f55-4104-82a2-c892d576acd8.jpg" group-title="SunNxt", Sun Bangla
+#EXTINF:-1 group-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://sund-images.sunnxt.com/194388/640x360_SunBangla_194388_19d1aba5-3f55-4104-82a2-c892d576acd8.jpg" group-title="SunNxt", Sun Bangla
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
