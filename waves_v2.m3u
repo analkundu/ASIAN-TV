@@ -65,7 +65,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/in
 #EXTINF:-1 tvg-id="10647" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp" group-title="Entertainment", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 
-#EXTINF:-1 tvg-id="10543" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp" group-title="Entertainment", B4U Bhojpuri
+#EXTINF:-1 tvg-id="10543" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NLB4H.png" group-title="Entertainment", B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 #EXTINF:-1 tvg-id="10544" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png" group-title="Entertainment", B4U KADAK
@@ -73,9 +73,6 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
 #EXTINF:-1 tvg-id="10548" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="Entertainment", B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-
-#EXTINF:-1 tvg-id="10598" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp" group-title="Entertainment", DABANNG
-https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10542" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="Entertainment", DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
@@ -88,9 +85,6 @@ https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.
 
 #EXTINF:-1 tvg-id="10932" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp" group-title="Entertainment", Gangaur
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
-
-#EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Entertainment", MAIBOLI
-https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10553" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png" group-title="Entertainment", PITAARA MOVIES
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
@@ -118,9 +112,6 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-id="10545" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="Music", B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-
-#EXTINF:-1 tvg-id="10651" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp" group-title="Music", MASTI
-https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10550" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png" group-title="Spiritual", DIVYA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
@@ -161,10 +152,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/in
 #EXTINF:-1 tvg-id="10579" tvg-logo="https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png" group-title="Regional Channels", DD YADGIRI
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/f61ea6704a2d4040a2d8eb5c8855ebeb/index.m3u8
 
-#EXTINF:-1 tvg-id="10592" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp" group-title="Regional Channels", DD GOA
+#EXTINF:-1 tvg-id="10592" tvg-logo="https://dtil.tmsimg.com/assets/s142783_ld_h15_aa.png" group-title="Regional Channels", DD GOA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
 
-#EXTINF:-1 tvg-id="10580" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp" group-title="Regional Channels", DD HARYANA
+#EXTINF:-1 tvg-id="10580" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QWV6.png" group-title="Regional Channels", DD HARYANA
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 
 #EXTINF:-1 tvg-id="10835" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png" group-title="Regional Channels", DD Rajasthan
@@ -173,13 +164,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/in
 #EXTINF:-1 tvg-id="10604" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png" group-title="Regional Channels", DD ASSAM
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
-#EXTINF:-1 tvg-id="10603" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/272878572nagala.webp" group-title="Regional Channels", DD NAGALAND
+#EXTINF:-1 tvg-id="10603" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QQC2.png" group-title="Regional Channels", DD NAGALAND
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
 
 #EXTINF:-1 tvg-id="10600" tvg-logo="https://dtil.tmsimg.com/assets/s142804_ld_h15_aa.png" group-title="Regional Channels", DD SAPTAGIRI
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
-#EXTINF:-1 tvg-id="10599" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2120874491megha.webp" group-title="Regional Channels", DD MEGHALAYA
+#EXTINF:-1 tvg-id="10599" tvg-logo="https://dtil.tmsimg.com/assets/s142793_ld_h9_aa.png" group-title="Regional Channels", DD MEGHALAYA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
 
 #EXTINF:-1 tvg-id="10589" tvg-logo="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png" group-title="Regional Channels", DD Jharkhand
@@ -191,7 +182,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/in
 #EXTINF:-1 tvg-id="10587" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png" group-title="Regional Channels", DD UP
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
 
-#EXTINF:-1 tvg-id="10586" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png" group-title="Regional Channels", DD HIMANCHAL
+#EXTINF:-1 tvg-id="10586" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG003D26Z7.png" group-title="Regional Channels", DD HIMANCHAL
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
 
 #EXTINF:-1 tvg-id="10558" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png" group-title="Regional Channels", DD BANGLA
@@ -200,10 +191,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 tvg-id="10581" tvg-logo="https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png" group-title="Regional Channels", DD UTTRAKHAND
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
 
-#EXTINF:-1 tvg-id="10578" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/825234471DD_TRIPURA.webp" group-title="Regional Channels", DD Tripura
+#EXTINF:-1 tvg-id="10578" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002TDQXE.png" group-title="Regional Channels", DD Tripura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
 
-#EXTINF:-1 tvg-id="10582" tvg-logo="https://dtil.tmsimg.com/assets/s142791_ld_h15_aa.png" group-title="Regional Channels", DD MALAYALAM
+#EXTINF:-1 tvg-id="10582" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG003D26E7.png" group-title="Regional Channels", DD MALAYALAM
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 
 #EXTINF:-1 tvg-id="10576" tvg-logo="https://dtil.tmsimg.com/assets/s142803_ld_h15_aa.png" group-title="Regional Channels", DD SHAYADRI
@@ -215,7 +206,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/in
 #EXTINF:-1 tvg-id="10573" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png" group-title="Regional Channels", DD GIRNAR
 https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
 
-#EXTINF:-1 tvg-id="10571" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1577670363DD_CHHATISGARH.webp" group-title="Regional Channels", DD CHHATISGARH
+#EXTINF:-1 tvg-id="10571" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002T3D8F.png" group-title="Regional Channels", DD CHHATISGARH
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
 
 #EXTINF:-1 tvg-id="10601" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png" group-title="Regional Channels", DD CHANDANA
@@ -227,7 +218,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 #EXTINF:-1 tvg-id="10562" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png" group-title="Regional Channels", DD ODIA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 
-#EXTINF:-1 tvg-id="10560" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp" group-title="Regional Channels", DD MANIPUR
+#EXTINF:-1 tvg-id="10560" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QWXC.png" group-title="Regional Channels", DD MANIPUR
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
 
 #EXTINF:-1 tvg-id="10559" tvg-logo="https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png" group-title="Regional Channels", DD KASHIR
