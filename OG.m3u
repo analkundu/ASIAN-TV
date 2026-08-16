@@ -24,7 +24,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",SET HD
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
-#EXTINF:-1 tvg-chno="339" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png" group-title="Movies",Zee Cinema HD
+#EXTINF:-1 tvg-chno="339" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
