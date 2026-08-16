@@ -36,6 +36,6 @@ https://cloudplay-sonyliv.pages.dev/aath.m3u8
 #EXTINF:-1 tvg-id="194388" tvg-language="Bengali" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png" group-title="SunNxt", Sun Bangla
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="1132" tvg-language="Hindi" group-title="Jtv|Entertainment" group-logo="https://i.postimg.cc/nzRJ94Vb/31-Gngoi-H5p-L.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+#EXTINF:-1 tvg-id="1132" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 https://jstar.anal-k-kundu.workers.dev/1132.m3u8
 
