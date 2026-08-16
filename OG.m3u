@@ -4,6 +4,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-id="10574" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QZCZ.png" group-title="National Channels", DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="10542" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="Entertainment", DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 
