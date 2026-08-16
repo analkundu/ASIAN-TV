@@ -44,3 +44,6 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XM/9xm_logo_resized_white_400x200.png" group-title="Music", 9XM
 https://amg01281-amg01281c4-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c4-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_MUSIC/b4u_music_logo_resized_400x200.png" group-title="Music", B4U Music
+https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-lgin/playlist.m3u8
