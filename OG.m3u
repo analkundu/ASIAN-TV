@@ -4,6 +4,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-id="10574" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QZCZ.png" group-title="National Channels", DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" group-title="Bangladesh",BTV
+https://live.btvlive.gov.bd/live/a0e62254-c855-454e-8888-82fcee1eb4a6/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+
 #EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" tvg-language="Hindi" group-title="Entertainment", Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
