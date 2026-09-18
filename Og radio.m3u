@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,Air Bangla
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Air Bangla",Air Bangla
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio13764kbps.m3u8
 
-#EXTINF:-1,FM Gold
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="FM Gold",FM Gold
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8
 
-#EXTINF:-1,FM Rainbow
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="FM Rainbow",FM Rainbow
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8
 
-#EXTINF:-1,Air Kolkata VBS
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Air Kolkata VBS",Air Kolkata VBS
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio27564kbps.m3u8
 
-#EXTINF:-1,Air Maitree
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Air Maitree",Air Maitree
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8
 
-#EXTINF:-1,Air Siliguri
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Air Siliguri",Air Siliguri
 https://d1tmej9eu7kw5c.cloudfront.net/165856ba98ca031a/165856ba98ca031a.m3u8
 
-#EXTINF:-1,Vividh bharati
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Vividh Bharati",Vividh bharati
 https://d1cvqgmbcpg5yn.cloudfront.net/146ed6ec6dea5a24/146ed6ec6dea5a24.m3u8
 
-#EXTINF:-1,Air Raagam
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Air Raagam",Air Raagam
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8
 
-#EXTINF:-1,Radio Ceylon
+#EXTINF:-1 radio="true" group-title="Radio" tvg-name="Radio Ceylon",Radio Ceylon
 http://220.247.227.20:8000/RSLstream
