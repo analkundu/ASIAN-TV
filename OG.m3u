@@ -55,3 +55,10 @@ https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Kids",Pogo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5012:6784567890abcfebcd23aa27e4ac2811
+https://wbd.skandha.tv/pogo/pogo.isml/.mpd
