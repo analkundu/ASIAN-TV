@@ -1,0 +1,51 @@
+name: Sync Sony channels
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the 3 channels
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/refs/heads/main/sony.m3u" -o full.m3u
+          awk '
+            /^#EXTINF/ { keep = ($0 ~ /tvg-id="(set-hd|max-hd|aath)\.sonyliv"/) }
+            keep { print }
+            keep && /^https?:/ { print ""; keep = 0 }
+          ' full.m3u | sed -E \
+            -e 's/group-title="SonyLIV Entertainment"/group-title="Entertainment"/' \
+            -e 's/group-title="SonyLIV Movies"/group-title="Movies"/' \
+            -e '/tvg-id="set-hd.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" tvg-name=|' \
+            -e '/tvg-id="max-hd.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png" tvg-name=|' \
+            -e '/tvg-id="aath.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png" tvg-name=|' \
+            > sony.part
+          # abort if the source changed and we didn't get all 3
+          [ "$(grep -c '^https' sony.part)" -eq 3 ] || { echo "Expected 3 channels"; exit 1; }
+
+      - name: Replace old entries in OG.m3u
+        run: |
+          awk '
+            /^#EXTINF/ { skip = (tolower($0) ~ /tvg-name="(set hd|sony max hd|sony aath)"/) }
+            !skip { print }
+            /^https?:/ { skip = 0 }
+          ' OG.m3u > new.m3u
+          echo "" >> new.m3u
+          cat sony.part >> new.m3u
+          mv new.m3u OG.m3u
+          rm -f full.m3u sony.part
+
+      - name: Commit if changed
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add OG.m3u
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Sony channels"
+            git push
+          fi
