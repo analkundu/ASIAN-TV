@@ -1,4 +1,4 @@
-name: Sync Sony channels
+name: Sync channels
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -9,36 +9,49 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Fetch the 3 channels
+      - name: Fetch Sony channels
         run: |
-          curl -fsSL "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/refs/heads/main/sony.m3u" -o full.m3u
+          curl -fsSL "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/refs/heads/main/sony.m3u" -o sony_full.m3u
           awk '
             /^#EXTINF/ { keep = ($0 ~ /tvg-id="(set-hd|max-hd|aath)\.sonyliv"/) }
             keep { print }
             keep && /^https?:/ { print ""; keep = 0 }
-          ' full.m3u | sed -E \
+          ' sony_full.m3u | sed -E \
             -e 's/group-title="SonyLIV Entertainment"/group-title="Entertainment"/' \
             -e 's/group-title="SonyLIV Movies"/group-title="Movies"/' \
             -e '/tvg-id="set-hd.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" tvg-name=|' \
             -e '/tvg-id="max-hd.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png" tvg-name=|' \
             -e '/tvg-id="aath.sonyliv"/ s|tvg-name=|tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png" tvg-name=|' \
             > sony.part
-          # abort if the source changed and we didn't get all 3
-          [ "$(grep -c '^https' sony.part)" -eq 3 ] || { echo "Expected 3 channels"; exit 1; }
+          [ "$(grep -c '^https' sony.part)" -eq 3 ] || { echo "Expected 3 Sony channels"; exit 1; }
+
+      - name: Fetch Zio channels
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/sportlive18/sportlink-update/refs/heads/main/zio.m3u" -o zio_full.m3u
+          awk '
+            /^#EXTINF/ { keep = (tolower($0) ~ /tvg-name="(star plus hd|star gold hd|star jalsha hd|jalsha movies hd|colors hd|colors cineplex hd|colors bangla hd|colors bangla cinema|disney junior|nick hd\+|disney channel)"/) }
+            keep { print }
+            keep && /^https?:/ { print ""; keep = 0 }
+          ' zio_full.m3u > zio.part
+          echo "Found $(grep -c '^https' zio.part) of 11 requested channels"
+          for n in "Star Plus HD" "Star Gold HD" "Star Jalsha HD" "Jalsha Movies HD" "Colors HD" "Colors Cineplex HD" "Colors Bangla HD" "Colors Bangla Cinema" "Disney Junior" "Nick HD\+" "Disney Channel"; do
+            grep -Eqi "tvg-name=\"$n\"" zio.part || echo "::warning::Not found in source: $n"
+          done
+          [ -s zio.part ] || { echo "No channels found"; exit 1; }
 
       - name: Replace old entries in OG.m3u
         run: |
           awk '
-            /^#EXTINF/ { skip = (tolower($0) ~ /tvg-name="(set hd|sony max hd|sony aath)"/) }
+            /^#EXTINF/ { skip = (tolower($0) ~ /tvg-name="(set hd|sony max hd|sony aath|star plus hd|star gold hd|star jalsha hd|jalsha movies hd|colors hd|colors cineplex hd|colors bangla hd|colors bangla cinema|disney junior|nick hd\+|disney channel)"/) }
             !skip { print }
             /^https?:/ { skip = 0 }
           ' OG.m3u > new.m3u
           echo "" >> new.m3u
-          cat sony.part >> new.m3u
+          cat sony.part zio.part >> new.m3u
           mv new.m3u OG.m3u
-          rm -f full.m3u sony.part
+          rm -f sony_full.m3u zio_full.m3u sony.part zio.part
 
       - name: Commit if changed
         run: |
@@ -46,6 +59,6 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add OG.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh Sony channels"
+            git commit -m "Refresh channels"
             git push
           fi
