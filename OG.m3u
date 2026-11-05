@@ -798,26 +798,41 @@ https://wbd.skandha.tv/TLC_HD_India/TLC_HD_India.isml/.mpd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="set-hd.sonyliv" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" tvg-name="SET HD" group-title="Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f"}
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
+#EXTVLCOPT:http-cookie=hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88"}
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
 
 #EXTINF:-1 tvg-id="aath.sonyliv" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png" tvg-name="Sony Aath" group-title="Entertainment",Sony Aath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f"}
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
+#EXTVLCOPT:http-cookie=hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88"}
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
 
 #EXTINF:-1 tvg-id="max-hd.sonyliv" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png" tvg-name="Sony MAX HD" group-title="Movies",Sony MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f"}
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1793838807~acl=/*~id=47109862329833041572823351689087~hmac=3e976e9b8cc3a1de9a7d875e11ae3bdc36e52dc2009abc534d4e9f8da6352d8f
+#EXTVLCOPT:http-cookie=hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88"}
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1793881901~acl=/*~id=31156481524942200744202339053268~hmac=4073632bc4b2d2678337482cf7c4566d00fe996013c3b8c5773123c10b63cb88
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
 #KODIPROP:inputstream=inputstream.adaptive
